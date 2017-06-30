@@ -1,0 +1,8 @@
+{
+  "name": "untitled-rl",
+  "version": "0.0.0",
+	"description": "Yet another roguelike in FreeBASIC.",
+  "repository": "https://github.com/schas002/untitled-rl.git",
+  "author": "Andrew Zyabin",
+  "license": "MIT"
+}
