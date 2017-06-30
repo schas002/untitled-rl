@@ -1,5 +1,7 @@
 #include "untitled-rl.bi"
 
+Cls
+
 ' Nanananananananana...
 Dim AtMan as Person
 AtMan.x = Pos()
@@ -45,4 +47,5 @@ Do
   Sleep 1, 1
 Loop
 
+Color WHITE, BLACK: Cls
 End
